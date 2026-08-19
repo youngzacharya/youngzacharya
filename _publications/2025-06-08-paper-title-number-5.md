@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: Two Arabic Orders of Mass: the Liturgical Inflection of Morisco Christianity, 1493–1596
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
